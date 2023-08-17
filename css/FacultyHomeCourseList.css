@@ -1,0 +1,328 @@
+
+.colLeft{
+    background-color: #132B43;
+}
+.imgCenter{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.gutterTopNLeftPad{
+    padding-top: 20%;
+    padding-left: 10%;
+}
+
+.p1{
+    font-size: 18px;
+    font-family: 'Inter';
+font-style: normal;
+text-decoration: none;
+color: rgb(194, 194, 194);
+}
+.notifications{
+     font-size: 20px;
+    font-family: 'Inter';
+font-style: normal;
+text-align: center;
+background-color: white;
+padding: 2%;
+}
+.courseList{
+    font-size: 20px;
+    font-family: 'Inter';
+font-style: normal;
+text-align: center;
+color: white;
+padding: 2%;
+}
+.whiteBg{
+    background-color: white;
+}
+#colBg1{
+    background-color: #132B43;
+    color: white;
+}
+#colBg2{
+   background-color: white;
+   color: #132B43;
+   padding: 5%;
+}
+.roundBtn{
+background-color: #132B43;
+color: white;
+padding: 30%;
+}
+
+.courseDiv{
+    background-color: #132B43;
+    padding: 5%;
+}
+.p1:hover{
+    color: rgb(194, 194, 194);
+}
+.RightColMain{
+    background-color: rgb(237, 236, 236);
+}
+
+.RightColNav{
+    background-color: white;
+}
+hr {
+        border: 0;
+        border-top: 1px solid #ccc;
+        padding: 0;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.rightnav{
+    float: right;
+}
+
+.card{
+    border: none;
+}
+
+.p3{
+    font-size: 15px;
+}
+
+.p11{
+    font-size: 18px;
+    font-family: 'Inter';
+font-style: normal;
+color: #1B1D21;
+}
+
+.heading5{
+    font-size: 23px;
+    font-family: 'Inter';
+    text-align: center;
+    font-weight: 600;
+font-style: normal;
+color: #1B1D21;
+}
+
+.NavTopPad{
+padding-top: 1%;
+}
+
+.TopPad{
+    padding-top: 5%;
+}
+
+.p4{
+    font-size: 17px;
+    font-family: 'Inter';
+font-style: normal;
+color: #808191;
+}
+.borderRad{
+    border-radius: 20px;
+}
+.p5{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.content1{
+    background-color:  white;
+    border-radius: 50px;
+}
+.content2{
+    padding-top: 5%;
+}
+.firstCol{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+}
+.midCol{
+    font-family: 'Inter';
+font-style: normal;
+color: #808191;
+font-size: 15px;
+}
+.lastCol{
+    font-family: 'Inter';
+    font-style: normal;
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+.content3{
+    padding-top: 1%;
+}
+
+.nav2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color:  #808191;
+}
+.nav2:hover{
+    background-color:#132B43;
+    border-radius: 40px;
+    color: white;
+}
+.content4{
+    background-color:  white;
+}
+.active{
+  color: black;
+  font-weight: bold;
+}
+.img7{
+    width: 100%;
+    height: 100%;
+}
+.img6{
+    width: 100%;
+    height: 100%;
+}
+.img8{
+    width: 100%;
+    height: 100%;
+}
+.set2{
+    padding-top: 5%;
+}
+#textBlack{
+    color: black;
+}
+.QRpara{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 550;
+font-size: 18px;
+}
+.imageCenter{
+    padding-left: 35%;
+    padding-top: 6%;
+}
+
+.hrLine {
+    display: none;
+}
+.hrLine1 {
+    
+    border-top: 3px solid #132B43;
+    padding: 0;
+    display:block;
+    width: auto;
+}
+#textBlack{
+    color: black;
+    font-size: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+}
+.submitBtn{
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+}
+.whiteBg{
+    background-color: white;
+}
+.error {
+    background: #f2dede;
+    color: #a94442;
+    padding: 10px;
+    width: 95%;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+.success {
+    background: #def2ed;
+    color: #42a957;
+    padding: 10px;
+    width: 95%;
+    border-radius: 5px;
+    margin: 20px auto;
+}
+@media (min-width: 992px) {
+    .navbar,
+    .navbar-collapse {
+      flex-direction: column;
+    }
+    .navbar-expand-lg .navbar-nav {
+      flex-direction: column;
+    }
+    .navbar {
+      width: 100%;
+    }
+    .navbar-brand {
+      margin-left: 0.5em;
+      padding-bottom: 0;
+  
+    }
+  
+   
+  }
+
+  
+@media only screen and (max-width: 600px) {
+    #textBlack{
+        color: black;
+        font-size: 19px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: bold;
+    }
+    .RightColMain{
+        padding-top: 5%;
+    }
+    .hrLine {
+    width: auto;
+        border-top: 3px solid #132B43;
+       
+        display:block;
+
+}
+.NavTopPad{
+    padding-top: 5%;
+    }
+ 
+.nav2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color:  #808191;
+}   
+.active{
+    color: black;
+    font-weight: bold;
+  }
+  .nav2:hover{
+background-color: white;
+color: black;
+}
+.content4{
+    padding-bottom: 5%;
+}
+.numberText{
+    text-align: center;
+}
+.content3{
+    padding-top: 2%;
+}
+.btnPos{
+    margin-left: 35%;
+}
+.imageCenter{
+    padding-top: 10%;
+    width: 100%;
+padding-left: 10%;
+padding-right: 10%;
+padding-bottom: 10%;
+}
+}
