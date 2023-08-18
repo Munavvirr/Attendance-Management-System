@@ -10,7 +10,7 @@ This application deals with the attendance maintenance of the students on a dail
 
 Whenever the students must attend any events related to sports, arts, science, technology, etc there are high chances that they might miss attendance. Later it’s difficult for both students and faculties to track back those dates that they have missed and mark those attendances. So, to overcome that problem I have developed a web application that is supported on every device to request those attendances. So, if a student must attend any event, then he/she must simply log in and request attendance of that class. The faculty of that desired course will receive the request from the student and then can send it to the desired faculty who is part of organizing that event. 
 
-Application Screenshots and results:
+# Application Screenshots and results:
 
 Login Page: 
 Initially, the faculty, student, and admin can log in to the web app using the credentials shown below: 
